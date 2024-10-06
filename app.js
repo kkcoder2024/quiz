@@ -58,7 +58,7 @@ const questions = [
         answers: [
             { text: "Big PC", correct: false },
             { text: "Big House", correct: false },
-            { text: "Rassian Wife", correct: true },
+            { text: "Russian Wife", correct: true },
             { text: "Girlfriend", correct: false },
         ]
     }
